@@ -1,0 +1,5 @@
+Cleaner helps you review storage use, large files, exact duplicates and images. Review results and select only files you no longer need. Deletion or moving files to recovery trash requires your confirmation.
+
+To scan shared phone storage and an accessible SD card, optionally enable all-files access from the dashboard and Android settings. Folder and photo selection remain available without this permission. Other apps' private data and caches and protected Android directories remain inaccessible.
+
+Recovery trash lets you restore files before emptying it. Moving files to trash does not necessarily free storage until the trash is emptied. Image compression creates a new copy and preserves the original. Persian and English interfaces and light and dark themes are available.
