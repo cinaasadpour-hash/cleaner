@@ -2,32 +2,52 @@
 
 ![Icon](icon.png)
 
-[Download / دریافت برنامه](https://github.com/cinaasadpour-hash/cleaner/releases/latest)
+[Download / دریافت APK](https://github.com/cinaasadpour-hash/cleaner/releases/tag/v1.0.2)
+
+Package: `com.sinatools.cleaner` · Version: **1.0.2** · Version code: **3**
 
 ## فارسی
 
-بررسی حافظه، فایل‌های حجیم و تکراری، بازیابی از سطل و فشرده‌سازی عکس.
+بررسی حافظه، فایل‌های حجیم و تکراری، سطل بازیابی و فشرده‌سازی عکس.
 
-یک پوشه یا عکس را با انتخابگر اندروید انتخاب کنید. موارد را بررسی و سپس پاکسازی را تأیید کنید. انتقال به سطل تا زمان تخلیه فضای آزاد ایجاد نمی‌کند. کش سایر برنامه‌ها پاک نمی‌شود.
+پاک‌کننده به بررسی فضای ذخیره‌سازی، فایل‌های حجیم، فایل‌های تکراری و تصاویر کمک می‌کند. نتیجه‌ها را بازبینی کنید و فقط فایل‌هایی را که لازم ندارید انتخاب کنید. حذف یا انتقال به سطل پس از تأیید شما انجام می‌شود.
 
-### تبلیغات
+برای اسکن حافظهٔ مشترک گوشی و کارت حافظه، می‌توانید مجوز مدیریت همهٔ فایل‌ها را از داشبورد و تنظیمات اندروید فعال کنید. بدون این مجوز، انتخاب پوشه و عکس همچنان در دسترس است. داده و کش خصوصی سایر برنامه‌ها و پوشه‌های محافظت‌شدهٔ اندروید قابل بررسی نیستند.
 
-بنر همسان در داشبورد و بینابینی محدود پس از عملیات موفق؛ هنگام اسکن، عملیات فایل، فشرده‌سازی و تأیید حذف مخفی است.
-
-نمایش تبلیغ به اینترنت و موجودی شبکهٔ تبلیغات بستگی دارد. امکانات اصلی به دریافت تبلیغ وابسته نیستند. تبلیغ بینابینی هنگام شروع برنامه نمایش داده نمی‌شود و تعداد نمایش آن محدود است.
+سطل بازیابی امکان برگرداندن فایل را پیش از تخلیه فراهم می‌کند. انتقال به سطل تا زمان تخلیه الزاماً فضا آزاد نمی‌کند. ابزار فشرده‌سازی عکس، نسخهٔ جدید می‌سازد و اصل عکس را حفظ می‌کند. رابط فارسی و انگلیسی و حالت روشن و تاریک در دسترس است.
 
 ## English
 
-Review storage, large and duplicate files, recovery trash, and image compression.
+Review storage, large and duplicate files, recovery trash and image compression.
 
-Select a folder or photo through Android. Review items before confirming cleanup. Moving items to recovery trash does not free space until the trash is emptied. Other apps’ private caches are not cleared.
+Cleaner helps you review storage use, large files, exact duplicates and images. Review results and select only files you no longer need. Deletion or moving files to recovery trash requires your confirmation.
 
-### Advertising
+To scan shared phone storage and an accessible SD card, optionally enable all-files access from the dashboard and Android settings. Folder and photo selection remain available without this permission. Other apps' private data and caches and protected Android directories remain inaccessible.
 
-Native banner in the dashboard and a capped interstitial after successful work; hidden during scans, file operations, compression, and deletion confirmation.
+Recovery trash lets you restore files before emptying it. Moving files to trash does not necessarily free storage until the trash is emptied. Image compression creates a new copy and preserves the original. Persian and English interfaces and light and dark themes are available.
 
-Advertising requires an internet connection and available inventory. Core features do not depend on an ad being available. Interstitials are not shown on launch and are frequency-capped.
+## Privacy / حریم خصوصی
 
-Package: `com.sinatools.cleaner` · Version: **1.0.1** · Minimum Android API: **26** · Target SDK: **36**.
+See [Privacy / حریم خصوصی](PRIVACY.md). Store listing text in both languages is available in [store-listing](store-listing).
 
-See [Privacy / حریم خصوصی](PRIVACY.md). Release APKs are signed with the publisher’s release certificate; private signing keys are not included in this repository.
+## Verification / بررسی
+
+The signed APK was installed and launched on a Samsung Galaxy A32 with Android 13 on 2026-10-30, with existing app data preserved. The installed APK checksum matched the release file. Production Tapsell identifiers and the release certificate were checked in the APK. Detailed visual and functional coverage varies by app; this is not a guarantee of compatibility with every device or external service.
+
+نسخهٔ امضاشده در ۳۰ اکتبر ۲۰۲۶ روی گوشی نصب و اجرا شد و اطلاعات قبلی حفظ شد. اثرانگشت نسخهٔ نصب‌شده با فایل انتشار برابر بود. نام بسته، امضا و شناسه‌های واقعی تپسل در APK بررسی شدند. محدودهٔ آزمون هر برنامه متفاوت است و سازگاری با همهٔ دستگاه‌ها و خدمات تضمین نمی‌شود.
+
+## تصاویر برنامه
+
+<img src="screenshots/fa/01-settings-light.png" width="230" alt="Cleaner fa 01-settings-light" />
+<img src="screenshots/fa/02-settings-dark.png" width="230" alt="Cleaner fa 02-settings-dark" />
+<img src="screenshots/fa/03-dashboard.png" width="230" alt="Cleaner fa 03-dashboard" />
+<img src="screenshots/fa/04-scanner.png" width="230" alt="Cleaner fa 04-scanner" />
+<img src="screenshots/fa/05-media.png" width="230" alt="Cleaner fa 05-media" />
+
+## Screenshots
+
+<img src="screenshots/en/01-settings-light.png" width="230" alt="Cleaner en 01-settings-light" />
+<img src="screenshots/en/02-settings-dark.png" width="230" alt="Cleaner en 02-settings-dark" />
+<img src="screenshots/en/03-dashboard.png" width="230" alt="Cleaner en 03-dashboard" />
+<img src="screenshots/en/04-scanner.png" width="230" alt="Cleaner en 04-scanner" />
+<img src="screenshots/en/05-media.png" width="230" alt="Cleaner en 05-media" />
